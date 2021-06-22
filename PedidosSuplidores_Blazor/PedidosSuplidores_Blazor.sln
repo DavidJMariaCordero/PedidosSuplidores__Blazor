@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PedidosSuplidores_Blazor", "PedidosSuplidores_Blazor.csproj", "{DA73AB4B-846B-4861-9D64-E8B836E1A476}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PedidosSuplidores_BlazorTests", "..\PedidosSuplidores_BlazorTests\PedidosSuplidores_BlazorTests.csproj", "{1BC61C3C-FA67-441A-A323-B841AFF9E89F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA73AB4B-846B-4861-9D64-E8B836E1A476}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA73AB4B-846B-4861-9D64-E8B836E1A476}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA73AB4B-846B-4861-9D64-E8B836E1A476}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA73AB4B-846B-4861-9D64-E8B836E1A476}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BC61C3C-FA67-441A-A323-B841AFF9E89F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BC61C3C-FA67-441A-A323-B841AFF9E89F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BC61C3C-FA67-441A-A323-B841AFF9E89F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BC61C3C-FA67-441A-A323-B841AFF9E89F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61F21073-AD1E-4C4D-830A-FA177A692464}
+	EndGlobalSection
+EndGlobal
